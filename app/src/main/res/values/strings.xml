@@ -10,6 +10,6 @@
     <string name="raw_file_content">Raw file content</string>
     <string name="menu_about">About</string>
     <string name="about_github">https://github.com/akaita/encryptedsharedpreferences-example</string>
-    <string name="about_medium">https://medium.com/akaita</string>
+    <string name="about_medium">https://medium.com/@akaita</string>
     <string name="about_akaita">Made for you by Akaita (akaita@4rtstudio.com)</string>
 </resources>
