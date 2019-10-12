@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EncryptedSharedPreferences example</string>
+    <string name="initialize_header">Initialize/Open</string>
+    <string name="initialize_switch">Encrypted SharedPreferences</string>
+    <string name="save_header">Save text</string>
+    <string name="save">Save</string>
+    <string name="read_header">Read text</string>
+    <string name="read">Read</string>
+    <string name="timestamp">done in %1$dms</string>
+    <string name="raw_file_content">Raw file content</string>
+    <string name="menu_about">About</string>
+    <string name="about_github">https://github.com/akaita/encryptedsharedpreferences-example</string>
+    <string name="about_medium">https://medium.com/akaita</string>
+    <string name="about_akaita">Made for you by Akaita (akaita@4rtstudio.com)</string>
+</resources>
