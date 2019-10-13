@@ -10,4 +10,6 @@ You can also check the [accompanying article in Medium](https://medium.com/@akai
 
 There are obvious performance concerns about EncryptedSharedPreferences, so I created a demo app and published it the [Play Store](https://play.google.com/store/apps/details?id=com.akaita.encryptedsharedpreferences). Try it out verify the performance you might experience in your test devices.
 
-<img src="./images/app-screenshot.png" alt="EncryptedSharedPreferences Example App in Play Store" width="300">
+<a href="https://play.google.com/store/apps/details?id=com.akaita.encryptedsharedpreferences">
+    <img src="./images/app-screenshot.png" alt="EncryptedSharedPreferences Example App in Play Store" width="300">
+</a>
